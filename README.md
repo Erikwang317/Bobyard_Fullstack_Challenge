@@ -29,6 +29,7 @@ The backend provides RESTful APIs to add, delete, and edit comments, as well as 
 3. Start the Django development server:  
   ```bash
   python manage.py runserver
+  ```
 
 ## USE
 - The backend API will be available at http://127.0.0.1:8000/api/.

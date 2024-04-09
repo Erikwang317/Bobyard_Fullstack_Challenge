@@ -21,10 +21,12 @@ The backend provides RESTful APIs to add, delete, and edit comments, as well as 
 1. Install Python dependencies:
    ```bash
    pip install django djangorestframework psycopg2
+   ```
 
 2. Navigate to the backend directory and run migrations:
   ```bash
   python manage.py migrate
+  s```
   
 3. Start the Django development server:  
   ```bash
